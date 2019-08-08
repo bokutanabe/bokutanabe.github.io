@@ -3,14 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-08-09T06:23:28+09:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-08-09T07:02:40+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-08-09T06:23:28+09:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2019-08-09T07:02:40+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/how-to-create-a-sphere/</loc>
+    <lastmod>2019-08-09T07:02:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-08-09T06:23:28+09:00</lastmod>
   </url>
   
   <url>
