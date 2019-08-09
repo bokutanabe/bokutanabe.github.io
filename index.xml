@@ -35,7 +35,7 @@ execute @p ~ ~ ~ setblock ^ ^ ^15 iron_block
       
       <guid>/about/</guid>
       <description> 自己紹介 ぼくたなべと申します。よろしくお願いします。
- YouTube Twitter  </description>
+ YouTube Twitter  プライバシーポリシー  本サイトにおいてはサービス向上のためGoogle Analyticsを利用しております。 これにより利用者のCookie情報がGoogleに送信される可能性があります。 利用者は本サイトを利用することで、Googleのデータ処理に許可を与えたものとみなします。  </description>
     </item>
     
   </channel>
