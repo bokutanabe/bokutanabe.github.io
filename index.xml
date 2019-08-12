@@ -6,10 +6,26 @@
     <description>Recent content on BOKUTANABE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2019 07:02:40 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 04:32:58 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【マイクラBE】1.12対応パーティクル付き弓矢・雪玉・トライデントのコマンド</title>
+      <link>/posts/weapon-with-1_12-particles/</link>
+      <pubDate>Tue, 13 Aug 2019 04:32:58 +0900</pubDate>
+      
+      <guid>/posts/weapon-with-1_12-particles/</guid>
+      <description> この記事はYouTube動画の補足記事です。
+コマンド 基本のコマンド execute @e[type=snowball] ~ ~ ~ particle minecraft:knockback_roar_particle ~ ~ ~
+武器の種類  雪玉
+type=snowball 弓矢
+type=arrow トライデント
+type=thrown_trident  着地した武器を自動でキルするコマンド  武器の下のブロックが空気かどうか判定する
+execute @e[type=arrow] ~ ~ ~ testforblock ~ ~-1 ~ air 武器をキルするコマンド
+kill @e[type=arrow]  v1.12追加で追加されたおすすめのパーティクル  minecraft:knockback_roar_particle minecraft:dragon_destroy_block minecraft:obsidian_glow_dust_particle minecraft:huge_explosion_lab_misc_emitter minecraft:mob_block_spawn_emitter  </description>
+    </item>
     
     <item>
       <title>【マイクラBE】球体を作るコマンド</title>

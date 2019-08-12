@@ -4,14 +4,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-08-09T07:02:40+09:00</lastmod>
+    <lastmod>2019-08-13T04:32:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-08-09T07:02:40+09:00</lastmod>
+    <lastmod>2019-08-13T04:32:58+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/weapon-with-1_12-particles/</loc>
+    <lastmod>2019-08-13T04:32:58+09:00</lastmod>
   </url>
   
   <url>
