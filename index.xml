@@ -6,10 +6,19 @@
     <description>Recent content on BOKUTANABE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 04:32:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2019 04:50:39 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Egg Challenge</title>
+      <link>/posts/egg-challenge/</link>
+      <pubDate>Sat, 24 Aug 2019 04:50:39 +0900</pubDate>
+      
+      <guid>/posts/egg-challenge/</guid>
+      <description> 【Minecraft】タマゴ孵化実験のデータパック導入方法 注意  この記事はYouTube動画の補足記事です。 Minecraft Java Editionの1.14.3で検証しています。今後のアップデート等により動作しなくなる可能性があります。  導入方法 データパックをダウンロードする  ぼくたなべのGitHubからデータパックをダウンロードしてください。 ページ右上の&amp;rdquo;Clone or download&amp;rdquo;という緑色のボタンから&amp;rdquo;Download ZIP&amp;rdquo;を選んでZIPファイルでダウンロードできます。  ワールドのフォルダに配置  ZIPファイルを展開して使いたいワールドのdatapacksフォルダに配置してください。  例 : saves/そのワールドのフォルダ/datapacks/egg-challenge-master/ここにdataとpack.mcmeta   起動方法  常時実行のリピートコマンドブロックに以下のコマンドを記入します。  /function egg-challenge-master:main  以下のように実行結果が出ない設定にすることをおすすめします(必須ではありません)。  /gamerule commandBlockOutput false  TAGコマンドで起動します。  /tag @p add egg-challenge   その他  強制的に終了したいときは以下のfunctionを実行してください。  /function egg-challenge-master:finalize   </description>
+    </item>
     
     <item>
       <title>【マイクラBE】1.12対応パーティクル付き弓矢・雪玉・トライデントのコマンド</title>
