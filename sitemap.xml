@@ -9,14 +9,14 @@
   </url>
   
   <url>
-    <loc>/posts/egg-challenge/</loc>
-    <lastmod>2019-08-24T04:50:39+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
     <lastmod>2019-08-24T04:50:39+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/egg-challenge/</loc>
+    <lastmod>2019-08-24T04:50:39+09:00</lastmod>
   </url>
   
   <url>
