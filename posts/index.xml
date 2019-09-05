@@ -6,10 +6,19 @@
     <description>Recent content in Posts on BOKUTANABE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Aug 2019 04:50:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 16:56:34 +0900</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【Minecraft】攻撃できる盾を作ってしまったという矛盾【コマンド】</title>
+      <link>/posts/hoko-tate/</link>
+      <pubDate>Thu, 05 Sep 2019 16:56:34 +0900</pubDate>
+      
+      <guid>/posts/hoko-tate/</guid>
+      <description> 【Minecraft】攻撃できる盾のデータパック導入方法 注意  この記事はYouTube動画の補足記事です。 Minecraft Java Editionの1.14.3で検証しています。今後のアップデート等により動作しなくなる可能性があります。  導入方法 データパックをダウンロードする  ぼくたなべのGitHubからデータパックをダウンロードしてください。 ページ右上の&amp;rdquo;Clone or download&amp;rdquo;という緑色のボタンから&amp;rdquo;Download ZIP&amp;rdquo;を選んでZIPファイルでダウンロードできます。  ワールドのフォルダに配置  ZIPファイルを展開して使いたいワールドのdatapacksフォルダにhoko-tateという名前で配置してください。  例 : saves/そのワールドのフォルダ/datapacks/hoko-tate/ここにdataとpack.mcmeta hoko-tate-masterという名前をhoko-tateに変更する必要があります。   起動方法  tick.jsonにより起動するため、ファルダに配置したあと再読み込みすることですぐに使うことができます。 鍛冶台の上に「木の剣」と「盾」を投げることで武器を召喚できます。  </description>
+    </item>
     
     <item>
       <title>【Minecraft】自動で1000個のタマゴを割るコマンド</title>
