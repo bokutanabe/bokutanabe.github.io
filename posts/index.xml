@@ -6,10 +6,19 @@
     <description>Recent content in Posts on BOKUTANABE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 16:56:34 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2019 10:38:25 +0900</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【Minecraft】時よ止まれ！時間停止装置【コマンド】</title>
+      <link>/posts/the-worl-d/</link>
+      <pubDate>Sun, 24 Nov 2019 10:38:25 +0900</pubDate>
+      
+      <guid>/posts/the-worl-d/</guid>
+      <description> 【Minecraft】時間停止装置のデータパック導入方法 注意  この記事はYouTube動画の補足記事です。 Minecraft Java Editionの1.14.3で検証しています。今後のアップデート等により動作しなくなる可能性があります。  導入方法 データパックをダウンロードする  ぼくたなべのGitHubリポジトリからデータパックをダウンロードしてください。 ページ右上の&amp;rdquo;Clone or download&amp;rdquo;という緑色のボタンから&amp;rdquo;Download ZIP&amp;rdquo;を選んでZIPファイルでダウンロードできます。  ワールドのフォルダに配置  ZIPファイルを展開して使いたいワールドのdatapacksフォルダにthe-worl-dという名前で配置してください。  例 : saves/そのワールドのフォルダ/datapacks/the-worl-d/ここにdataとpack.mcmeta   起動方法  tick.jsonにより起動するため、ファルダに配置したあと再読み込み(/reloadコマンド)することですぐに使うことができます。 金床で「the-worl-d」という名前と束縛の呪いを付与した時計を作成するか、以下のコマンドをチャット欄に入力し、手に持つと使用することができます。  /give @p minecraft:clock{display:{Name:&amp;quot;\&amp;quot;the-worl-d\&amp;quot;&amp;quot;},Enchantments:[{lvl:1s,id:&amp;quot;minecraft:binding_curse&amp;quot;}]}   </description>
+    </item>
     
     <item>
       <title>【Minecraft】攻撃できる盾を作ってしまったという矛盾【コマンド】</title>
