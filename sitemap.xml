@@ -1,57 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-11-24T10:38:25+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-11-24T10:38:25+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/the-worl-d/</loc>
-    <lastmod>2019-11-24T10:38:25+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/hoko-tate/</loc>
-    <lastmod>2019-09-05T16:56:34+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/egg-challenge/</loc>
-    <lastmod>2019-08-24T04:50:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/weapon-with-1_12-particles/</loc>
-    <lastmod>2019-08-13T04:32:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/how-to-create-a-sphere/</loc>
-    <lastmod>2019-08-09T07:02:40+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2019-08-09T06:23:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/ja/sitemap.xml</loc>
+		
+	   	<lastmod>2019-11-24T10:54:57+09:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
