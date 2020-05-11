@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ぼくたなべ</title>
-    <link>/posts/</link>
+    <link>bokutanabe.com/posts/</link>
     <description>Recent content in Posts on ぼくたなべ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>©️ぼくたなべ</copyright>
+    <copyright>©️2020 ぼくたなべ</copyright>
     <lastBuildDate>Sun, 24 Nov 2019 10:38:25 +0900</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="bokutanabe.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>【Minecraft】時よ止まれ！時間停止装置【コマンド】</title>
-      <link>/posts/the-worl-d/</link>
+      <link>bokutanabe.com/posts/the-worl-d/</link>
       <pubDate>Sun, 24 Nov 2019 10:38:25 +0900</pubDate>
       
-      <guid>/posts/the-worl-d/</guid>
+      <guid>bokutanabe.com/posts/the-worl-d/</guid>
       <description>【Minecraft】時間停止装置のデータパック導入方法 注意  この記事はYouTube動画の補足記事です。 Minecraft Java Editionの1.14.3で検証しています。今後のアップデート等により動作しなくなる可能性があります。  導入方法 データパックをダウンロードする  ぼくたなべのGitHubリポジトリからデータパックをダウンロードしてください。 ページ右上の&amp;quot;Clone or download&amp;quot;という緑色のボタンから&amp;quot;Download ZIP&amp;quot;を選んでZIPファイルでダウンロードできます。  ワールドのフォルダに配置  ZIPファイルを展開して使いたいワールドのdatapacksフォルダにthe-worl-dという名前で配置してください。  例 : saves/そのワールドのフォルダ/datapacks/the-worl-d/ここにdataとpack.mcmeta    起動方法  tick.jsonにより起動するため、ファルダに配置したあと再読み込み(/reloadコマンド)することですぐに使うことができます。 金床で「the-worl-d」という名前と束縛の呪いを付与した時計を作成するか、以下のコマンドをチャット欄に入力し、手に持つと使用することができます。  /give @p minecraft:clock{display:{Name:&amp;quot;\&amp;quot;the-worl-d\&amp;quot;&amp;quot;},Enchantments:[{lvl:1s,id:&amp;quot;minecraft:binding_curse&amp;quot;}]}    </description>
     </item>
     
     <item>
       <title>【Minecraft】攻撃できる盾を作ってしまったという矛盾【コマンド】</title>
-      <link>/posts/hoko-tate/</link>
+      <link>bokutanabe.com/posts/hoko-tate/</link>
       <pubDate>Thu, 05 Sep 2019 16:56:34 +0900</pubDate>
       
-      <guid>/posts/hoko-tate/</guid>
+      <guid>bokutanabe.com/posts/hoko-tate/</guid>
       <description>【Minecraft】攻撃できる盾のデータパック導入方法 注意  この記事はYouTube動画の補足記事です。 Minecraft Java Editionの1.14.3で検証しています。今後のアップデート等により動作しなくなる可能性があります。  導入方法 データパックをダウンロードする  ぼくたなべのGitHubからデータパックをダウンロードしてください。 ページ右上の&amp;quot;Clone or download&amp;quot;という緑色のボタンから&amp;quot;Download ZIP&amp;quot;を選んでZIPファイルでダウンロードできます。  ワールドのフォルダに配置  ZIPファイルを展開して使いたいワールドのdatapacksフォルダにhoko-tateという名前で配置してください。  例 : saves/そのワールドのフォルダ/datapacks/hoko-tate/ここにdataとpack.mcmeta hoko-tate-masterという名前をhoko-tateに変更する必要があります。    起動方法  tick.jsonにより起動するため、ファルダに配置したあと再読み込みすることですぐに使うことができます。 鍛冶台の上に「木の剣」と「盾」を投げることで武器を召喚できます。  </description>
     </item>
     
     <item>
       <title>【Minecraft】自動で1000個のタマゴを割るコマンド</title>
-      <link>/posts/egg-challenge/</link>
+      <link>bokutanabe.com/posts/egg-challenge/</link>
       <pubDate>Sat, 24 Aug 2019 04:50:39 +0900</pubDate>
       
-      <guid>/posts/egg-challenge/</guid>
+      <guid>bokutanabe.com/posts/egg-challenge/</guid>
       <description>【Minecraft】タマゴ孵化実験のデータパック導入方法 注意  この記事はYouTube動画の補足記事です。 Minecraft Java Editionの1.14.3で検証しています。今後のアップデート等により動作しなくなる可能性があります。  導入方法 データパックをダウンロードする  ぼくたなべのGitHubからデータパックをダウンロードしてください。 ページ右上の&amp;quot;Clone or download&amp;quot;という緑色のボタンから&amp;quot;Download ZIP&amp;quot;を選んでZIPファイルでダウンロードできます。  ワールドのフォルダに配置  ZIPファイルを展開して使いたいワールドのdatapacksフォルダに配置してください。  例 : saves/そのワールドのフォルダ/datapacks/egg-challenge-master/ここにdataとpack.mcmeta    起動方法  常時実行のリピートコマンドブロックに以下のコマンドを記入します。  /function egg-challenge-master:main   以下のように実行結果が出ない設定にすることをおすすめします(必須ではありません)。  /gamerule commandBlockOutput false   TAGコマンドで起動します。  /tag @p add egg-challenge    その他  強制的に終了したいときは以下のfunctionを実行してください。  /function egg-challenge-master:finalize    </description>
     </item>
     
     <item>
       <title>【マイクラBE】1.12対応パーティクル付き弓矢・雪玉・トライデントのコマンド</title>
-      <link>/posts/weapon-with-1_12-particles/</link>
+      <link>bokutanabe.com/posts/weapon-with-1_12-particles/</link>
       <pubDate>Tue, 13 Aug 2019 04:32:58 +0900</pubDate>
       
-      <guid>/posts/weapon-with-1_12-particles/</guid>
+      <guid>bokutanabe.com/posts/weapon-with-1_12-particles/</guid>
       <description>注意  この記事はYouTube動画の補足記事です。 Minecraft Bedrock Editionの1.12.0で検証しています。今後のアップデート等により動作しなくなる可能性があります。  コマンド 基本のコマンド execute @e[type=snowball] ~ ~ ~ particle minecraft:knockback_roar_particle ~ ~ ~
 武器の種類  雪玉
 type=snowball 弓矢
@@ -55,10 +55,10 @@ kill @e[type=arrow]  v1.12追加で追加されたおすすめのパーティク
     
     <item>
       <title>【マイクラBE】球体を作るコマンド</title>
-      <link>/posts/how-to-create-a-sphere/</link>
+      <link>bokutanabe.com/posts/how-to-create-a-sphere/</link>
       <pubDate>Fri, 09 Aug 2019 07:02:40 +0900</pubDate>
       
-      <guid>/posts/how-to-create-a-sphere/</guid>
+      <guid>bokutanabe.com/posts/how-to-create-a-sphere/</guid>
       <description>注意  この記事はYouTube動画の補足記事です。 Minecraft Bedrock Editionの1.12.0で検証しています。今後のアップデート等により動作しなくなる可能性があります。  使用するコマンド   上下の視線をリセットする
 execute @p[rx=90,rxm=90] ~ ~ ~ tp @p ~ ~ ~ ~ -90
   体の向きを右にスライドする

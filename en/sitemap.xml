@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/</loc>
+    <loc>bokutanabe.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/"
+                href="bokutanabe.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="bokutanabe.com/en/"
                 />
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>bokutanabe.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/categories/"
+                href="bokutanabe.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="bokutanabe.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>bokutanabe.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/tags/"
+                href="bokutanabe.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="bokutanabe.com/en/tags/"
                 />
   </url>
   

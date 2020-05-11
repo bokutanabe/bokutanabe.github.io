@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/</loc>
+    <loc>bokutanabe.com/posts/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/the-worl-d/</loc>
+    <loc>bokutanabe.com/posts/the-worl-d/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/hoko-tate/</loc>
+    <loc>bokutanabe.com/posts/hoko-tate/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/egg-challenge/</loc>
+    <loc>bokutanabe.com/posts/egg-challenge/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/weapon-with-1_12-particles/</loc>
+    <loc>bokutanabe.com/posts/weapon-with-1_12-particles/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/how-to-create-a-sphere/</loc>
+    <loc>bokutanabe.com/posts/how-to-create-a-sphere/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>bokutanabe.com/about/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>bokutanabe.com/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="bokutanabe.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/"
+                href="bokutanabe.com/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>bokutanabe.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="bokutanabe.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/categories/"
+                href="bokutanabe.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>bokutanabe.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="bokutanabe.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/tags/"
+                href="bokutanabe.com/tags/"
                 />
   </url>
   
