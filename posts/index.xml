@@ -6,10 +6,28 @@
     <description>Recent content in Posts on ぼくたなべ</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>©️2020 ぼくたなべ</copyright>
-    <lastBuildDate>Sun, 24 Nov 2019 10:38:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 21:26:41 +0900</lastBuildDate>
     
 	<atom:link href="bokutanabe.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【マイクラBE】触れたら即死！ビーコン式セキュリティレーザーのコマンド</title>
+      <link>bokutanabe.com/posts/security-laser-1/</link>
+      <pubDate>Mon, 11 May 2020 21:26:41 +0900</pubDate>
+      
+      <guid>bokutanabe.com/posts/security-laser-1/</guid>
+      <description>注意  この記事はYouTube動画の補足記事です。分かりにくい部分や詳細は動画本編にて確認してください。 Minecraft Bedrock Editionの1.14.30で検証しています。今後のアップデート等により動作しなくなる可能性があります。  ビーコン式セキュリティレーザーのコマンド 1. 適当にビーコンを設置 適当にビーコンを設置して通路っぽくします。
+2. コマンドブロックを設置 ビーコンの下にコマンドブロックを設置します。使うコマンドブロックは1つのみです！
+3. コマンドの範囲を計算 コマンドの適用範囲を計算します。この例では、Y方向（上）に5ブロック、Z方向（右）に2ブロックです。この範囲は建築している方向によって変わるので、皆さんの環境にあわせて計算してください。左上の「位置」から方向を計算できます。マイナスの場合もあるので気を付けてください。
+4. 計算結果をもとにKILLコマンドを入力 kill @e[dy=5,dz=2]
+この例ではこのようになります。X方向の場合はDXを使います。
+コマンドブロックの設定は「反復」「無条件」「レッドストーンが必要」です。
+5. ピストンを使ってビーコンのON/OFFを制御 ビーコンは透過ブロック等の一部の特殊なブロックでしか発動しないため、その性質を利用してON/OFFを切り替えます。
+6. レッドストーン回路をいい感じにする レバーからいい感じにレッドストーン回路を配線します。
+ビーコンとKILLコマンドが同時にON/OFF切り替わるようにします。
+7. 完成！ 見た目を整えて完成です。分かりにくかった部分は動画も見てみてください。</description>
+    </item>
     
     <item>
       <title>【Minecraft】時よ止まれ！時間停止装置【コマンド】</title>
