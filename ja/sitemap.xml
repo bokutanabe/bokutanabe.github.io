@@ -3,85 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>bokutanabe.com/posts/</loc>
+    <loc>https://bokutanabe.com/posts/</loc>
     <lastmod>2020-05-11T21:26:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/posts/security-laser-1/</loc>
+    <loc>https://bokutanabe.com/posts/security-laser-1/</loc>
     <lastmod>2020-05-11T21:26:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/posts/the-worl-d/</loc>
+    <loc>https://bokutanabe.com/posts/the-worl-d/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/posts/hoko-tate/</loc>
+    <loc>https://bokutanabe.com/posts/hoko-tate/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/posts/egg-challenge/</loc>
+    <loc>https://bokutanabe.com/posts/egg-challenge/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/posts/weapon-with-1_12-particles/</loc>
+    <loc>https://bokutanabe.com/posts/weapon-with-1_12-particles/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/posts/how-to-create-a-sphere/</loc>
+    <loc>https://bokutanabe.com/posts/how-to-create-a-sphere/</loc>
     <lastmod>2020-05-09T00:46:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/about/</loc>
+    <loc>https://bokutanabe.com/about/</loc>
     <lastmod>2020-05-11T20:58:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>bokutanabe.com/</loc>
+    <loc>https://bokutanabe.com/</loc>
     <lastmod>2020-05-11T20:58:17+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="bokutanabe.com/en/"
+                href="https://bokutanabe.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="bokutanabe.com/"
+                href="https://bokutanabe.com/"
                 />
   </url>
   
   <url>
-    <loc>bokutanabe.com/categories/</loc>
+    <loc>https://bokutanabe.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="bokutanabe.com/en/categories/"
+                href="https://bokutanabe.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="bokutanabe.com/categories/"
+                href="https://bokutanabe.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>bokutanabe.com/tags/</loc>
+    <loc>https://bokutanabe.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="bokutanabe.com/en/tags/"
+                href="https://bokutanabe.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="bokutanabe.com/tags/"
+                href="https://bokutanabe.com/tags/"
                 />
   </url>
   
